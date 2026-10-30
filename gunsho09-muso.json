@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/muso",
  "yomi": "むそうこくしぎょえいそう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "南北朝期",
+  "author": "夢窓疎石（1275〜1351）",
+  "desc": "禅僧、夢窓疎石の和歌を集めたもの。甲斐や相模三浦に庵を結んだころの歌や、足利尊氏・直義と嵐山の花を見た歌などを収める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -1325,6 +1330,6 @@
   "poems": 114,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
